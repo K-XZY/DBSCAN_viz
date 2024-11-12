@@ -20,7 +20,14 @@ An interactive tool to visualize the DBSCAN clustering algorithm on a 2D canvas.
 - **FFmpeg** (for exporting animations as video)
 
 ### Steps to Install Dependencies
-1. Clone the repository (after publishing to GitHub):
+Clone the repository (after publishing to GitHub):
+
    ```bash
-   git clone k-xzy/BDSCAN_viz
-   cd BDSCAN_viz
+   git clone https://github.com/K-XZY/DBSCAN_viz.git
+cd BDSCAN_viz
+```
+Install dependencies and run the code:
+```bash
+   pip install -r requirements.txt
+   python dbscan_viz.py
+   ```
