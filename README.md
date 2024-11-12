@@ -11,7 +11,7 @@ An interactive tool to visualize the DBSCAN clustering algorithm on a 2D canvas.
 - Adjustable animation speed for better visualization.
 
 ## Demo
-![DBSCAN Visualizer Demo](media/dbscan_demo.gif)
+![DBSCAN Visualizer Demo](./dbscan_demo.gif)
 
 
 ## Installation
