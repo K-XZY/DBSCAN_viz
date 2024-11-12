@@ -10,6 +10,10 @@ An interactive tool to visualize the DBSCAN clustering algorithm on a 2D canvas.
 - Export the animation as a video (`dbscan_animation.mp4`) to the `Downloads` folder.
 - Adjustable animation speed for better visualization.
 
+## Demo
+![DBSCAN Visualizer Demo](media/dbscan_demo.gif)
+
+
 ## Installation
 
 ### Requirements
@@ -29,5 +33,5 @@ cd BDSCAN_viz
 Install dependencies and run the code:
 ```bash
    pip install -r requirements.txt
-   python dbscan_viz.py
+   python dbscan_visualizer.py
    ```
